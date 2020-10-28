@@ -1,0 +1,44 @@
+body {
+    background-image: url("images/1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    background-color: gainsboro;
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 150%;
+    border: 1px;
+    padding:5px;
+}
+p {
+    background-color: gainsboro;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    border: 10px;
+    padding:10px
+
+}
+body.one {
+    background-image: url("images/2.jpg");
+    word-spacing: 0.5em;
+    font-weight:;
+    text-align:;
+
+}
+body.two {
+    background-image: url("images/4.jpg");
+}
+body.three {
+    background-image: url("images/3.jpg");
+    border-style:ridge;
+}
+blockquote, center {
+    background-color: gainsboro;
+    text-decoration-color: darkkhaki;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+    border: 1px;
+    padding:10px
+body.one{} 
+
